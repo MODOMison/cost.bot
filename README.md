@@ -9,7 +9,9 @@ https://www.youtube.com/watch?v=BH9Y5QU42Qs
 
 
 puts them in the same file 
+
 run breezy 
+
 run cost
 
 
